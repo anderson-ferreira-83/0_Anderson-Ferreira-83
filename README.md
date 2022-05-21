@@ -8,7 +8,7 @@
   
 ## I'm a Teacher, Developer  and  Guitarplayer!!
 
-- 🔭 I’m currently working on ....
+- 🔬 I’m currently working on [my Phd in Vibroacoustic laboratory](https://www.fem.unicamp.br/index.php/pt-br/lva-home)
 
 - 🌱 I’m currently learning Python and Machine Learning
 

@@ -1,18 +1,21 @@
-### Hi there 👋
+## Hi there, I'm Anderson 👋
 
 <div align="center">
   <a href="https://github.com/anderson-ferreira-83">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-ferreira-83&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ferreira-83&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 📫 How to reach me: ...
   
-### Languages and Tools:
+## I'm a Teacher, Developer  and  Guitarplayer!!
+
+- 🔭 I’m currently working on ....
+
+- 🌱 I’m currently learning Python and Machine Learning
+
+- 🎸 Fun fact: I love to play acoustic and eletric guitar
+
+  
+## Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,7 +24,11 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <img align="center" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  <img align="center" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+  <img align="center" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+
+  </div>
 <br />
 
   ###

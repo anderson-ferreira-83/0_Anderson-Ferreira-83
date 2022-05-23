@@ -1,11 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Anderson Ferreira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson-ferreira-83&color=yellow" alt="Profile views" />
-
-<div align="center">
-  <a href="https://github.com/anderson-ferreira-83">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-ferreira-83&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ferreira-83&layout=compact&langs_count=7&theme=merko"/>
-</div>
   
 ## I'm a Teacher, Developer  and  Guitarplayer!!
 
@@ -15,6 +9,14 @@
 
 - 🎸 Fun fact: I love to play acoustic and eletric guitar
 
+<div align="center">
+  <a href="https://github.com/anderson-ferreira-83">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-ferreira-83&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ferreira-83&layout=compact&langs_count=7&theme=merko"/>
+</div>
+  
+
+
   
 ## Languages and Tools:
 <div style="display: inline_block"><br>
@@ -23,7 +25,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  <img align="center" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  <img align="center" alt="Markdown" height="25" width="118" src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
+  <img align="center" alt="Visual Studio Code" height="30" width="135" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  
   </div>
 <br />
 

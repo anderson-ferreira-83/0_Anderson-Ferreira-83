@@ -10,7 +10,7 @@
 
 - 🔬 I’m currently working on [my Phd in Vibroacoustic laboratory](https://www.fem.unicamp.br/index.php/pt-br/lva-home)
 
-- 🌱 I’m currently learning Python and Machine Learning
+- 🌱 I’m currently learning Python and its tools applied to Data Science
 
 - 🎸 Fun fact: I love to play acoustic and eletric guitar
 

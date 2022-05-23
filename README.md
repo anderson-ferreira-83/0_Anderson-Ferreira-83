@@ -1,4 +1,5 @@
-## Hi there, I'm Anderson 👋
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Anderson Ferreira</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson-ferreira-83&color=yellow" alt="Profile views" />
 
 <div align="center">
   <a href="https://github.com/anderson-ferreira-83">

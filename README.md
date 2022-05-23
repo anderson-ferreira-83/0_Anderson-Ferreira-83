@@ -9,6 +9,8 @@
 
 - 🎸 Fun fact: I love to play acoustic and eletric guitar
 
+## ⚙️ &nbsp;GitHub Analytics
+  
 <div align="center">
   <a href="https://github.com/anderson-ferreira-83">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-ferreira-83&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -18,7 +20,7 @@
 
 
   
-## Languages and Tools:
+## 🛠 &nbsp; Languages and Tools:
 <div style="display: inline_block"><br>
   
   <img align="center" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>

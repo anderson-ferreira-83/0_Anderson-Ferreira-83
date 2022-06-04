@@ -29,7 +29,10 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   <img align="center" alt="Markdown" height="25" width="118" src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
-  <img align="center" alt="Visual Studio Code" height="30" width="135" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  <img align="center" alt="Visual Studio Code" height="30" width="150" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  <img align="center" alt="lATEX" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/95/20150628071627%21TeXShop_icon.png">
+  
+  
   
   </div>
 <br />

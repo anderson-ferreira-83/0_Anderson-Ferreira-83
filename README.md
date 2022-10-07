@@ -5,7 +5,17 @@
 
 - 🔬 I’m currently working on [my Phd in Vibroacoustic laboratory](https://www.fem.unicamp.br/index.php/pt-br/lva-home)
 
-- 🌱 I’m currently learning Python and its tools applied to Data Science
+- 🌱 I’m currently learning tools applied to Data Engineering:
+
+Create, design, and manage relational databases and apply database administration (DBA) concepts to RDBMSes such as MySQL and PostgreSQL;
+
+NoSQL & Big Data using MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, Spark Streaming;
+
+Implement ETL & Data Pipelines with Bash, Airflow & Kafka;
+
+Architect, populate, deploy Data Warehouses;
+
+Create BI reports & interactive dashboards;
 
 - 🎸 Fun fact: I love to play acoustic and eletric guitar
 

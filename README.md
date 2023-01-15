@@ -32,15 +32,20 @@ Create BI reports & interactive dashboards;
   
 ## 🛠 &nbsp; Languages and Tools:
 <div style="display: inline_block"><br>
-  
+  <img align="center" alt="Bash" height="75" width="75" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg">
   <img align="center" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" alt="Python" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Numpy" height="75" width="75" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="75" width="75" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   <img align="center" alt="Markdown" height="25" width="118" src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
   <img align="center" alt="Visual Studio Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="lATEX" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/95/20150628071627%21TeXShop_icon.png">
+  <img align="center" alt="MySQL" height="70" width="70" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="PostGres" height="70" width="70" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Mongo" height="70" width="70" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Amazon" height="75" width="75" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   </div>
 <br />
 
